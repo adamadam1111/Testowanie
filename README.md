@@ -1,2 +1,2 @@
 # Testowanie
-Przykłady raportów testowania
+Przykłady mindmapy, przypadków testowych oraz list kontrolnych. 
